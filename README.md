@@ -11,3 +11,8 @@ https://oshwlab.com/Aigleblanc55/deej
 
 ## Photos
 
+[Show Photos](https://github.com/emulsion-io/deej/tree/main/photos)
+
+## Arduino Code
+
+[Show code](https://github.com/emulsion-io/deej/tree/main/arduino)
